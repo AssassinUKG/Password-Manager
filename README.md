@@ -8,7 +8,7 @@ A simple password manager for personal use as you wish
 
 ### Usage
 
-Add a url to the url field, add your username for the site and either genetrate a password or use your own. 
+Add a url to the url field, add your username for the site and either generate a password or use your own. 
 
 ### Features
 
